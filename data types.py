@@ -1,0 +1,14 @@
+nambari=56
+nambari1=57.362541
+myname="Esther"
+_istrue=True
+isfalse=False
+myclass={"Joel","Irene","John"}
+myfavfruits={"Apples","Kiwi","Mangoes"}
+print(type(nambari))
+print(type(nambari1))
+print(type(myname))
+print(type(_istrue))
+print(type(isfalse))
+print(type(myclass))
+print(type(myfavfruits))
